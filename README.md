@@ -14,9 +14,9 @@ NVDA is also unable to read the contents of a dropdown menu if opened using the 
 
 ## EXPECTED BEHAVIOR
 
-Screen reader is able to read contents of a dropdown menu regardless of if it was opened using a down arrow key event or a onClick event of the toggleButton
+Screen reader support across all browsers to read contents of a dropdown menu regardless of if it was opened using a down arrow key event or a onClick event of the toggleButton
 
-## HOW TO REPEAT THIS ISSUE
+## HOW TO REPEAT THIS ISSUE?
 
 1. Clone this Create React App
 2. NPM run start
