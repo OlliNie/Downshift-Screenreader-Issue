@@ -19,4 +19,5 @@ Screen reader support across all browsers to read contents of a dropdown menu re
 ## HOW TO REPEAT THIS ISSUE?
 
 1. Clone this Create React App
-2. NPM run start
+2. NPM i
+3. NPM run start
