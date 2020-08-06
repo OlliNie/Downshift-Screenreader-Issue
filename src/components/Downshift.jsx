@@ -39,7 +39,7 @@ export const DownshiftExample = () => {
                 {isOpen
                   ? items.map((item, i) => (
                       <li
-                        key={i}
+                        key={item.id}
                         {...getItemProps({
                           item,
                           key: item.id,
